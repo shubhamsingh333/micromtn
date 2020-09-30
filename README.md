@@ -1,6 +1,7 @@
 Logr
 ====
  - - -
+ -----
 
 I never understood why blogging platforms had to be so complex. In my opinion,
 the perfect blog software would adhere to a few important principals:
